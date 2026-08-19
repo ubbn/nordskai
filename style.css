@@ -66,9 +66,23 @@ a {
 }
 
 .logo {
+  display: inline-flex;
+  align-items: center;
   font-weight: 700;
   font-size: 1.25rem;
   color: var(--color-text);
+}
+
+.logo-icon {
+  width: 28px;
+  height: 28px;
+  margin-right: 6px;
+  flex-shrink: 0;
+}
+
+.logo-icon--lg {
+  width: 40px;
+  height: 40px;
 }
 
 .logo span {

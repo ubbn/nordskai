@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="32" fill="#0b0f1a"/>
+  <circle cx="32" cy="32" r="30.5" fill="none" stroke="#1a2540" stroke-width="1"/>
+  <text x="32" y="38" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="700" font-size="20" letter-spacing="-0.5">
+    <tspan fill="#e2e8f0">NS</tspan><tspan fill="#5eead4">K</tspan>
+  </text>
+</svg>
